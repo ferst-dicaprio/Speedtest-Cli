@@ -187,4 +187,4 @@ This repository serves as the official landing page for Speedtest CLI. The softw
 **Get the most recent version of Speedtest CLI today!**
 
 ---
-**Last updated:** 2026-11-09 01:26:40 UTC
+**Last updated:** 2026-11-09 09:08:22 UTC
